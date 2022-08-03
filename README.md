@@ -1,0 +1,2 @@
+# Optimal-Power-Flow-3-phases
+This repository contains the codes for the Optimal Power Flow in 3 phases. It is based in the Wirtinger approximation and allows to effectuate the OPF with Delta Conections. The excel files should be modified in order to change the Line Parameters and the type of connection in the TIPOL column (0 to Y and 1 to Delta). It also contains DGs which should be modified in concordance to the number of nodes of the benchmark.
